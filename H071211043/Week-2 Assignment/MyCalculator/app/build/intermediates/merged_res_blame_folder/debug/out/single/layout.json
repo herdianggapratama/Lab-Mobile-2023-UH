@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/herdiangga4/.gradle/daemon/7.5/com.praktikumpmb043.mycalculator.app-mergeDebugResources-28:/layout/item.xml",
+        "source": "/home/herdiangga4/.gradle/daemon/7.5/com.praktikumpmb043.mycalculator.app-main-31:/layout/item.xml"
+    },
+    {
+        "merged": "com.praktikumpmb043.mycalculator.app-mergeDebugResources-28:/layout/button_layout.xml",
+        "source": "com.praktikumpmb043.mycalculator.app-main-31:/layout/button_layout.xml"
+    },
+    {
+        "merged": "/home/herdiangga4/.gradle/daemon/7.5/com.praktikumpmb043.mycalculator.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "/home/herdiangga4/.gradle/daemon/7.5/com.praktikumpmb043.mycalculator.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/herdiangga4/.gradle/daemon/7.5/com.praktikumpmb043.mycalculator.app-mergeDebugResources-28:/layout/button_layout.xml",
+        "source": "/home/herdiangga4/.gradle/daemon/7.5/com.praktikumpmb043.mycalculator.app-main-31:/layout/button_layout.xml"
+    }
+]
