@@ -55,7 +55,8 @@
 ```
   
 ## tambahkan tugas ke index/staging area
-
+command :  _git add \<filename\>_
+  
 - menambahkan direktory atau file tertentu ke index
   
   contoh :
@@ -71,7 +72,7 @@ contoh :
 
 ```
 - menambahkan seluruh perubahan ke staging area
-command :  _git add \<filename\>_
+
 ```
     git add .
 ```
@@ -106,6 +107,9 @@ git push origin main
 
 **Pada tahap ini pull request sudah berhasi dibuat**
 
-Note : Selain dengan menggunakan cara diatas, kamu juga bisa drag and drop menggunakan fitur _upload file_
+Note : Selain dengan menggunakan cara diatas, kamu juga bisa drag and drop menggunakan fitur ![](https://img.shields.io/badge/Add_file_%E2%96%BE-black.svg)  
+    Jika ada kendala pada proses mengumpulkan tugas boleh tanyakan pada saat asistensi 🍵
   
-  <font color="#00ffff" size="5"> Jika ada kendala pada proses mengumpulkan tugas boleh tanyakan pada saat asistensi 🍵</font>
+    
+_your friendly assistant_  
+**Ichsan Takwa**
